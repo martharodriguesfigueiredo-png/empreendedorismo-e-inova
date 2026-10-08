@@ -100,3 +100,6 @@ Divididas em três conjuntos principais:
 * **Sistema Nacional de Inovação e a Hélice Tripla/Quádrupla:** O desenvolvimento sustentável ocorre quando há integração contínua entre **Governo** (políticas públicas e fomento), **Universidades** (formação e pesquisa científica), **Empresas** (geração de riqueza e aplicação) e **Sociedade Civil**.
 * **Ecossistema de Apoio:** A sobrevivência e aceleração de *startups* de base tecnológica dependem de infraestruturas como **Incubadoras de Empresas**, **Parques Tecnológicos**, **Aceleradoras** e **Anjos Investidores**.
 * **Educação Empreendedora:** O fomento do espírito empreendedor desde o ensino fundamental reduz a dependência cultural do emprego público (que não gera riqueza direta, apenas redistribui recursos via impostos) e incentiva a criação de empregos privados e o desenvolvimento regional.
+
+
+Link para o NotebookLM: https://notebook.google.com/notebook/ad73166d-015e-477b-9a68-a57398ed468e
